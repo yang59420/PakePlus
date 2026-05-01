@@ -276,7 +276,6 @@ const main = async () => {
         pwdError,
         pwdStyle,
         pwdTheme,
-        webUrl,
     } = ppconfig.desktop
     // get windows config
     const winConfig = ppconfig.more.windows
